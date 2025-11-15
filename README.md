@@ -36,10 +36,10 @@ KG-Transformer is tested in both **simulation** (VirtualHome) and **real hardwar
   Your browser does not support the video tag.
 </video>
 
--  **Figure 1: System Overview**
+-  **Figure 1: Simulation case studies: success (top) and failure (bottom)**
   ![System Overview](Images/Success-Failure.png)
 
--  **Figure 2: Failure Case 1**
+-  **Figure 2: Real-world navigation and manipulation**
   ![System Overview](Images/Success-Failure-RealWorld.png)
 
 
