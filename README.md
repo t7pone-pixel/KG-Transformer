@@ -53,7 +53,7 @@ KG-Transformer is tested in both **simulation** (VirtualHome) and **real hardwar
   ![ Watch Demo](Videos/KGT_Demo.mp4)
 
 
-
+https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4
 
 ---
 
