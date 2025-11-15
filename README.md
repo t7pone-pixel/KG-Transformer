@@ -28,27 +28,6 @@ KG-Transformer is tested in both **simulation** (VirtualHome) and **real hardwar
 
 ## Repository Media Placeholders
 
--  **Figure 1: System Overview**
-  ![System Overview](Images/KG-Transfomer.jpeg)
-
--  **Figure 2: Failure Case 1**
-  ![System Overview](Images/failure.png)
-
--  **Figure 3: Failure Case 2**
-  ![System Overview](Images/failure1.png)
-
--  **Figure 4: Success Case 1**
-  ![System Overview](Images/Success1.png)
-
--  **Figure 5: Success Case 2**
-  ![System Overview](Images/Success2.png)
-
--  **Figure 6: Real World Case**
-  ![System Overview](Images/Real_Robot_KG.jpeg)
-
--  **Figure 7: VirtualHome Simulation Case**
-  ![System Overview](Images/VirtaulHome_KG.jpeg)
-
 -  **Video Demonstration**
 
 <video width="800" controls>
@@ -56,6 +35,16 @@ KG-Transformer is tested in both **simulation** (VirtualHome) and **real hardwar
           type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+-  **Figure 1: System Overview**
+  ![System Overview](Images/Success-Failure.png)
+
+-  **Figure 2: Failure Case 1**
+  ![System Overview](Images/Success-Failure-RealWorld.png)
+
+
+
+
 
 ---
 
