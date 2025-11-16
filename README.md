@@ -10,9 +10,9 @@ The system integrates three core components:
 
 - **Dynamic Knowledge Graph (KG)** – captures evolving object states, spatial relations, and uncertainties during task execution.  
 - **Transformer-based Task Engine** – fuses language semantics with scene understanding to predict subgoals and corresponding robot actions.  
-- **3D Digital Twin** – continuously validates predicted plans for safety, vetoing or repairing them under chance-constrained risk thresholds before real-world execution:contentReference[oaicite:0]{index=0}.
+- **3D Digital Twin** – continuously validates predicted plans for safety, vetoing or repairing them under chance-constrained risk thresholds before real-world execution.
 
-KG-Transformer is tested in both **simulation** (VirtualHome) and **real hardware** environments (JetBot for navigation and xArm Lite 6 for manipulation). The digital twin maintains metric alignment between symbolic states and geometric reality, ensuring that all plans are physically executable and safety-verified in real time:contentReference[oaicite:1]{index=1}.
+KG-Transformer is tested in both **simulation** (VirtualHome) and **real hardware** environments (JetBot for navigation and xArm Lite 6 for manipulation). The digital twin maintains metric alignment between symbolic states and geometric reality, ensuring that all plans are physically executable and safety-verified in real time.
 
 ---
 
