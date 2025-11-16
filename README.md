@@ -19,7 +19,7 @@ KG-Transformer is tested in both **simulation** (VirtualHome) and **real hardwar
 ## Core Highlights
 
 - **Uncertainty-Aware Planning:** Incorporates evidential reasoning using Dirichlet (discrete) and Gaussian (continuous) distributions for robust decision-making in partially observable environments.
-- **Symbolic–Physical Mapping:** Establishes a one-to-one link between VirtualHome primitives and robot controllers, ensuring interpretable, reproducible, and auditable sim-to-real transfer:contentReference[oaicite:2]{index=2}.
+- **Symbolic–Physical Mapping:** Establishes a one-to-one link between VirtualHome primitives and robot controllers, ensuring interpretable, reproducible, and auditable sim-to-real transfer.
 - **Digital-Twin Safety Layer:** Validates every action for collision, joint-limit, and contact feasibility—automatically repairing unsafe plans before execution.
 - **Multi-Robot Capability:** Demonstrated on a mobile–manipulator setup, where a JetBot performs navigation and an xArm Lite 6 executes manipulation tasks.
 - **Explainable AI Integration:** Each subgoal prediction, veto, or repair is traceable through the KG and safety logs, supporting transparent evaluation.
