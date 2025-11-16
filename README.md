@@ -28,7 +28,7 @@ KG-Transformer is tested in both **simulation** (VirtualHome) and **real hardwar
 
 ## Repository Media Placeholders
 
--  **Video Demonstration**
+-  **Video Demonstration 1**
 
 <video width="800" controls>
   <source src="https://jumpshare.com/embed/8H0rFRzUgzmwwTKFpoo2"
